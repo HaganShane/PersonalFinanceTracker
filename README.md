@@ -109,6 +109,7 @@ The React app will start at `http://localhost:3000`.
 ## Notes
 - Referenced / utlilized previous project (FitnessShift), also located on GitHub
 - Used Claude AI to troubleshoot issues/errors, help with code snippets on the front end react
+- All names and data in this project are completely random. They are not based off of anyone, completely random names, emails, numbers, data just to populate data to navigate the site, SQL, and Power BI Report.
 
 ## License
 
